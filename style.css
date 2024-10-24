@@ -38,14 +38,18 @@ body {
     text-align: center;
     margin-bottom: 20px;
 }
-h1 {
-    font-size: 1rem;
-    color: var(--text-headline);
+h1.h1 {
+    font-size: 2rem;
     font-weight: 700;
     font-size: 0.875rem;
     margin: 0;
     width: 70rem;
     height: 1.3rem;
+}
+h1.headline{
+    font-size: 0.75rem;
+    color: var(--text-headline);
+    
 }
 .header h2 {
     color: #333;
