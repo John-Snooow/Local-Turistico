@@ -110,7 +110,7 @@ p {
 }
 
 .tags li {
-  display: block;
+  margin-left: 1rem;
 }
 
 .tags span {
